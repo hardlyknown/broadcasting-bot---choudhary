@@ -40,7 +40,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # ============= CONFIGURATION =============
-BOT_TOKEN = "nigga"
+BOT_TOKEN = "8712979025:AAEZXRb-WdMxJ54mAtBXiRAAemKwIwNLFMk"
 API_ID = 2040
 API_HASH = "b18441a1ff607e10a989891a5462e627"
 ADMIN_IDS = [6061069578, 8574146669, 5393060599, 8104158848]
